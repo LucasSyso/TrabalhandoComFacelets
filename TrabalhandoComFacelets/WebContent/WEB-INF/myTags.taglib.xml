@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<facelet-taglib version="2.2"
+	xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee 
+		http://xmlns.jcp.org/xml/ns/javaee/web-facelettaglibrary_2_2.xsd">
+
+	<!-- Arquivo descritor de tags -->
+
+	<!-- Este arquivo serve de modelo para a criação de tagLibs ao criar um arquivo que define tags -->
+	<namespace>http://myTags/lucas</namespace>
+	<tag>
+		<tag-name>texto</tag-name>
+		<source>tags/modeloTexto.xhtml</source>
+	</tag>
+
+</facelet-taglib>
